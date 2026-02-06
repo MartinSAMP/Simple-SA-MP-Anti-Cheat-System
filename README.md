@@ -36,7 +36,7 @@ Sistem anti-cheat ringan sisi server untuk SA:MP yang ditulis dalam Pawn. Mendet
 - Mengabaikan aksi khusus seperti jetpack dan parasut selama deteksi terbang
 
 ## Keterbatasan
-- Bukan solusi anti-cheat lengkap dirancang sebagai lapisan perlindungan dasar
+- Bukan solusi anti-cheat lengkap, dirancang sebagai lapisan perlindungan dasar
 - Dapat menghasilkan positif palsu dalam kasus langka (ledakan, bug)
 - Tidak dapat mendeteksi cheat visual (hack radar, hack dinding)
 - Membutuhkan validasi sisi server untuk mekanika game kritis
