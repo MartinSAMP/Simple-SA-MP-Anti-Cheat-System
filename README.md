@@ -43,4 +43,4 @@ Sistem anti-cheat ringan sisi server untuk SA:MP yang ditulis dalam Pawn. Mendet
 - Harus dikombinasikan dengan langkah keamanan lain untuk server produksi
 
 ## Catatan
-Skrip ini menyediakan deteksi cheat dasar. Untuk perlindungan yang kuat, gabungkan dengan plugin anti-cheat khusus (SAC, DACE) dan terapkan validasi sisi server tambahan untuk mekanika game. Selalu uji ambang batas pada server spesifik Anda untuk meminimalkan positif palsu.ction. For robust protection, combine with dedicated anti-cheat plugins (SAC, DACE) and implement additional server-side validations for game mechanics. Always test thresholds on your specific server to minimize false positives.
+Skrip ini menyediakan deteksi cheat dasar. Untuk perlindungan yang kuat, gabungkan dengan plugin anti-cheat khusus dan terapkan validasi sisi server tambahan untuk mekanika game. Selalu uji ambang batas pada server spesifik Anda untuk meminimalkan positif palsu.ction. For robust protection, combine with dedicated anti-cheat plugins (SAC, DACE) and implement additional server-side validations for game mechanics. Always test thresholds on your specific server to minimize false positives.
